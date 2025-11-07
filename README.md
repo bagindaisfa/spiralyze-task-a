@@ -6,10 +6,10 @@ This project demonstrates a simple keyword-based search functionality using a lo
 ## 📱 Screenshots
 
 ### Desktop View
-![Desktop Layout](./screenshots/desktop-layout.png)
+![Desktop Layout](./public/screenshots/desktop-layout.png)
 
 ### Mobile View
-![Mobile Layout](./screenshots/mobile-layout.png)
+![Mobile Layout](./public/screenshots/mobile-layout.png)
 
 ---
 
