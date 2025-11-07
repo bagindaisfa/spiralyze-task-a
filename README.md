@@ -3,9 +3,16 @@
 A compact full-stack search app built with **Next.js** and **TypeScript**.  
 This project demonstrates a simple keyword-based search functionality using a local JSON dataset — no external database or APIs required.
 
-![Search Interface Demo](\screenshots\desktop-layout.png)  
-
-![Search Interface Demo](\screenshots\mobile-layout.png)  
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/screenshots/desktop-layout.png" alt="Desktop Layout" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <p style="text-align: center; color: #666; margin-top: 8px;">Desktop View</p>
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <img src="/screenshots/mobile-layout.png" alt="Mobile Layout" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <p style="text-align: center; color: #666; margin-top: 8px;">Mobile View</p>
+  </div>
+</div>
 
 ---
 
