@@ -192,10 +192,13 @@ Run with npm i && npm run dev	✅
 
 🧱 Design & UX Notes
 The frontend includes:
-Loading state → “Searching...”
-Empty state → “No matches found”
-Error message for empty query
-Clean, minimal layout using built-in CSS classes
+- Responsive design that works seamlessly on mobile, tablet, and desktop
+- Loading state → "Searching..." with disabled button
+- Empty state → "No matches found" message
+- Clear error handling for empty queries
+- Clean, minimal layout using Tailwind CSS
+- Smooth animations and transitions for better user experience
+- Dark mode support for reduced eye strain
 
 
 🔒 Security
