@@ -3,9 +3,9 @@
 A compact full-stack search app built with **Next.js** and **TypeScript**.  
 This project demonstrates a simple keyword-based search functionality using a local JSON dataset — no external database or APIs required.
 
-![Search Interface Demo](/screenshots/desktop-layout.png)  
+![Search Interface Demo](\screenshots\desktop-layout.png)  
 
-![Search Interface Demo](/screenshots/mobile-layout.png)  
+![Search Interface Demo](\screenshots\mobile-layout.png)  
 
 ---
 
