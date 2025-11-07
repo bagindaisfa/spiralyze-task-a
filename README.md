@@ -206,7 +206,7 @@ No secrets or environment variables are exposed.
 
 👨‍💻 Author
 
-Baginda Isfa Pulungan
+M Baginda Isfa Pulungan
 📧 [bagindaisfa05@gmail.com](mailto:bagindaisfa05@gmail.com)
 💼 GitHub Profile
 [https://github.com/bagindaisfa](https://github.com/bagindaisfa)
